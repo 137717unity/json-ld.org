@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'nokogiri'
+gem 'nokogiri', '>= 1.13.2'
 gem 'linkeddata'
 gem 'colorize'
 gem 'rake'
